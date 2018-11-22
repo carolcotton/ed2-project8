@@ -1,0 +1,6 @@
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\bin\Debug\ed2-project8.exe.config
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\obj\Debug\ed2-project8.csprojResolveAssemblyReference.cache
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\bin\Debug\ed2-project8.exe
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\bin\Debug\ed2-project8.pdb
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\obj\Debug\ed2-project8.exe
+C:\Users\Fernando Belmonte\Documents\Visual Studio 2015\Projects\ed2-mesalvadels\ed2-project8\ed2-project8\obj\Debug\ed2-project8.pdb
