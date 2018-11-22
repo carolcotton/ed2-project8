@@ -85,20 +85,20 @@ namespace ed2_project8
                     if((input=="1" || input=="2") && controller.Garagens.JornadaAtiva)
                     {
                         Console.WriteLine("Não é possível adicionar veículos ou garagens com a jornada ativa");
-                        input = "0";
+                        input = "10";
                     }
                     else if(input=="5" &&  !controller.Garagens.JornadaAtiva )
                     {
                         Console.WriteLine("Não é possível liberar uma viagem com a jornada inativa");
-                        input = "0";
+                        input = "10";
                     }
                     else if(input == "4" && !controller.Garagens.JornadaAtiva)
                     {
                         Console.WriteLine("Não é possível encerrar a jornada se a mesma se encontra inativa");
-                        input = "0";
+                        input = "10";
                     }
                    
-                } while (input == "0");
+                } while (input == "10");
 
                 op = Convert.ToInt16(input);
 
@@ -274,7 +274,6 @@ namespace ed2_project8
                 }
             }
             while (op != 0);
-            Console.ReadKey();
       }
    }
 }
